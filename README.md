@@ -1,9 +1,9 @@
 ![PHP Composer](https://github.com/jeyroik/extas-configs/workflows/PHP%20Composer/badge.svg?branch=master)
 ![codecov.io](https://codecov.io/gh/jeyroik/extas-configs/coverage.svg?branch=master)
-
-[![Latest Stable Version](https://poser.pugx.org/jeyroik/extas-configs/v)](//packagist.org/packages/jeyroik/extas-jsonrpc)
-[![Total Downloads](https://poser.pugx.org/jeyroik/extas-configs/downloads)](//packagist.org/packages/jeyroik/extas-jsonrpc)
-[![Dependents](https://poser.pugx.org/jeyroik/extas-configs/dependents)](//packagist.org/packages/jeyroik/extas-jsonrpc)
+<a href="https://codeclimate.com/github/jeyroik/extas-configs/maintainability"><img src="https://api.codeclimate.com/v1/badges/d03eb7574a62ed61bffc/maintainability" /></a>
+[![Latest Stable Version](https://poser.pugx.org/jeyroik/extas-configs/v)](//packagist.org/packages/jeyroik/extas-configs)
+[![Total Downloads](https://poser.pugx.org/jeyroik/extas-configs/downloads)](//packagist.org/packages/jeyroik/extas-configs)
+[![Dependents](https://poser.pugx.org/jeyroik/extas-configs/dependents)](//packagist.org/packages/jeyroik/extas-configs)
 
 
 # extas-configs
